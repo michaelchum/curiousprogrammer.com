@@ -8,10 +8,6 @@ Extracted lovingly from Matt Swanson, all credits to him, thanks infinitely!
 
 curiousprogrammer.com is deployed using [Nginx][nginx] with git on a VPS
 
-* Responsive, based on [Skeleton][skeleton]
-* [Font Awesome][font-awesome] for icons
-* Open Sans from [Google web fonts][gfonts]
-
 ## Installation
 
 - Install Jekyll: `gem install jekyll`
