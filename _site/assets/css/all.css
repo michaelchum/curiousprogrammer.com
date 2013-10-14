@@ -104,7 +104,7 @@
 	p.lead { font-size: 21px; line-height: 27px; color: #777;  }
 
 	em { font-style: italic; }
-	strong { font-weight: bold; color: #333; }
+	strong { font-weight: bold;}
 	small { font-size: 80%; }
 
 /*	Blockquotes  */
@@ -610,7 +610,7 @@ body {
   color: #222222;
   line-height: 24px;
   margin: 0;
-  border-top: 7px solid #3498db;
+  border-top: 7px solid #0C84E8;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -645,17 +645,17 @@ ul {
 }
 
 a {
-  color: #3498db;
+  color: #0C84E8;
   text-decoration: none;
 }
 
 a:hover {
-  color: #3498db;
+  color: #0C84E8;
   text-decoration: underline;
 }
 
 a:visited {
-  color: #3498db;
+  color: #0C84E8;
 }
 
 table {
@@ -776,8 +776,16 @@ nav hr {
   color: #666;
 }
 
+#blog-posts a, #talk-posts a, #book-posts a {
+  color: #333;
+}
+
+#blog-posts a:visited, #talk-posts a:visited, #book-posts a:visited {
+  color: #333;
+}
+
 #home h2 {
-  color: #3498db;
+  color: #0C84E8;
 }
 
 #logo {
@@ -794,6 +802,7 @@ nav hr {
   width: 29px;
   overflow: hidden;
   float: left;
+  color: #333;
 }
 
 #stalker i {
@@ -803,7 +812,7 @@ nav hr {
 
 #stalker a:hover {
   text-decoration: none;
-  color: #3498db;
+  color: #0C84E8;
 }
 
 span.icon-hn {

@@ -179,14 +179,6 @@ nav hr {
   color: #666;
 }
 
-#blog-posts a, #talk-posts a, #book-posts a {
-  color: #333;
-}
-
-#blog-posts a:visited, #talk-posts a:visited, #book-posts a:visited {
-  color: #333;
-}
-
 #home h2 {
   color: {{ site.theme.highlight_color }};
 }
@@ -205,7 +197,6 @@ nav hr {
   width: 29px;
   overflow: hidden;
   float: left;
-  color: #333;
 }
 
 #stalker i {
