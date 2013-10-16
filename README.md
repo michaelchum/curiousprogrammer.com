@@ -18,7 +18,7 @@ You should have a server up and running locally at <http://localhost:4000>.
 ## Licensing
 
 [MIT](https://github.com/michaelchum/curiousprogrammer.com/blob/master/LICENSE) with no
-added caveats, inspired by Matt Swanson, credits to this awesome programmer!
+added caveats, inspired by [Matt Swanson][ms], credits to this awesome programmer!
 
 
 [j]: http://jekyllrb.com/
@@ -26,3 +26,4 @@ added caveats, inspired by Matt Swanson, credits to this awesome programmer!
 [font-awesome]: http://fortawesome.github.io/Font-Awesome/
 [gfonts]: http://www.google.com/fonts/specimen/Open+Sans
 [nginx]: https://www.digitalocean.com/community/articles/how-to-deploy-jekyll-blogs-with-git
+[ms]: https://github.com/swanson
