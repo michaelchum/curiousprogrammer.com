@@ -17,7 +17,7 @@ You should have a server up and running locally at <http://localhost:4000>.
 
 ## Licensing
 
-[MIT](https://github.com/swanson/lagom/blob/master/LICENSE) with no
+[MIT](https://github.com/michaelchum/curiousprogrammer.com/blob/master/LICENSE) with no
 added caveats, inspired by Matt Swanson, credits to this awesome programmer!
 
 
